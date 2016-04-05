@@ -9,7 +9,8 @@ Team Members
 
 Output of cross validation :
 
-Accuracy of iteration 1 is 92 % \n
+Accuracy of iteration 1 is 92 % 
+
 Accuracy of iteration 2 is 92 %
 Accuracy of iteration 3 is 88 %
 Accuracy of iteration 4 is 88 %
