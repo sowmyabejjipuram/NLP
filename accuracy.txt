@@ -1,0 +1,13 @@
+Accuracy of iteration 1 is 92 %
+Accuracy of iteration 2 is 92 %
+Accuracy of iteration 3 is 88 %
+Accuracy of iteration 4 is 88 %
+Accuracy of iteration 5 is 68 %
+Accuracy of iteration 6 is 84 %
+Accuracy of iteration 7 is 84 %
+Accuracy of iteration 8 is 84 %
+Accuracy of iteration 9 is 72 %
+Accuracy of iteration 10 is 80 %
+
+Average accuracy 83.2%
+
