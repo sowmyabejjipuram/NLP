@@ -7,7 +7,7 @@ Team Members
 2. Velam Thanu    B120568EC 
 3. B.Sowmya       B120691CS
 
-Output of cross validation :
+**Output of cross validation :**
 
 Accuracy of iteration 1 is 92 % 
 
@@ -29,5 +29,5 @@ Accuracy of iteration 9 is 72 %
 
 Accuracy of iteration 10 is 80 %
 
-Average accuracy 83.2%
+**Average accuracy 83.2%**
 
